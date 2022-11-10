@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview of Analysis
-This analysis attempts to help one understand the dynamics of Amazon reviews, and specifically those written by paid reviewers in a program such as Amazon Vine. 
+This analysis attempts to help one understand the dynamics of Amazon reviews, and specifically those written by paid reviewers in a program such as Amazon Vine. It is important to consider whether reviews conducted by paid reviewers tend to be significantly different than those conducted by unpaid reviewers.
 
 ## Results
 There are 4291 total Vine reviews and 1781706 total non-Vine reviews.
